@@ -1,0 +1,7 @@
+E:\unity\quark\Solid\SOLID-IS_incorrecto\SOLID-IS_incorrecto\obj\Debug\SOLID-IS_incorrecto.csproj.AssemblyReference.cache
+E:\unity\quark\Solid\SOLID-IS_incorrecto\SOLID-IS_incorrecto\obj\Debug\SOLID-IS_incorrecto.csproj.CoreCompileInputs.cache
+E:\unity\quark\Solid\SOLID-IS_incorrecto\SOLID-IS_incorrecto\bin\Debug\SOLID-IS_incorrecto.exe.config
+E:\unity\quark\Solid\SOLID-IS_incorrecto\SOLID-IS_incorrecto\bin\Debug\SOLID-IS_incorrecto.exe
+E:\unity\quark\Solid\SOLID-IS_incorrecto\SOLID-IS_incorrecto\bin\Debug\SOLID-IS_incorrecto.pdb
+E:\unity\quark\Solid\SOLID-IS_incorrecto\SOLID-IS_incorrecto\obj\Debug\SOLID-IS_incorrecto.exe
+E:\unity\quark\Solid\SOLID-IS_incorrecto\SOLID-IS_incorrecto\obj\Debug\SOLID-IS_incorrecto.pdb
